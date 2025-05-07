@@ -48,10 +48,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/talk-to-code.git"
+    "url": "https://github.com/Joshkaki00/talk-to-code-js-lib.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/talk-to-code/issues"
+    "url": "https://github.com/Joshkaki00/talk-to-code-js-lib/issues"
   },
-  "homepage": "https://github.com/yourusername/talk-to-code#readme"
+  "homepage": "https://github.com/Joshkaki00/talk-to-code-js-lib#readme"
 }

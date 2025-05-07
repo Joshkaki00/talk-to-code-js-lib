@@ -25,6 +25,8 @@ npm install talk-to-code
 
 [npm package](https://www.npmjs.com/package/talk-to-code)
 
+[GitHub repository](https://github.com/Joshkaki00/talk-to-code-js-lib)
+
 ## 📋 Basic Usage
 
 ```javascript
