@@ -23,6 +23,8 @@ talk("log all DOM elements with class player");
 npm install talk-to-code
 ```
 
+[npm package](https://www.npmjs.com/package/talk-to-code)
+
 ## 📋 Basic Usage
 
 ```javascript
